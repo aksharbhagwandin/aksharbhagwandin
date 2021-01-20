@@ -16,7 +16,7 @@ Driven by making a difference in the world I am easily inspired. I always feel a
 
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
 
-Contact me below and lets talk about how we can solve problems.
+Contact me and lets talk about how we can solve problems.
 <!--
 **aksharbhagwandin/aksharbhagwandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
