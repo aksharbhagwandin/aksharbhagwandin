@@ -14,8 +14,9 @@ Driven by making a difference in the world I am easily inspired. I always feel a
 
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
 
-[![Twitter follow @akshar_io](https://img.shields.io/twitter/follow/akshar_io?style=social)](https://twitter.com/akshar_io) &nbsp;
 [![Linkedin follow @callicoder](https://img.shields.io/badge/-aksharbhagwandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aksharbhagwandin/)](https://www.linkedin.com/in/aksharbhagwandin/) &nbsp;
+[![Twitter follow @akshar_io](https://img.shields.io/twitter/follow/akshar_io?style=social)](https://twitter.com/akshar_io) &nbsp;
+
 <!--
 **aksharbhagwandin/aksharbhagwandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
