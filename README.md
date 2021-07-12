@@ -13,6 +13,9 @@ Skills can be taught but personality is inherent. I have a passion to keep learn
 Driven by making a difference in the world I am easily inspired. I always feel a need to act upon ideas instead of only talking about them. I am a people-person. I am been able to inspire others to achieve their goals. With software development the learning never stops.
 
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
+
+[![Twitter follow @akshar_io](https://img.shields.io/twitter/follow/akshar_io?style=social)](https://twitter.com/akshar_io) &nbsp;
+[![Linkedin follow @callicoder](https://img.shields.io/badge/-aksharbhagwandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aksharbhagwandin/)](https://www.linkedin.com/in/aksharbhagwandin/) &nbsp;
 <!--
 **aksharbhagwandin/aksharbhagwandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
