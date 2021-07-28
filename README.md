@@ -14,7 +14,7 @@ Driven by making a difference in the world I am easily inspired. I always feel a
 
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
 
-<img align="left" alt="scbushan05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true" />
+<img align="left"  alt="scbushan05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true" />
 
 <br/>
 
