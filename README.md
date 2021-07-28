@@ -12,7 +12,9 @@ Skills can be taught but personality is inherent. I have a passion to keep learn
 
 Driven by making a difference in the world I am easily inspired. I always feel a need to act upon ideas instead of only talking about them. I am a people-person. I am been able to inspire others to achieve their goals. With software development the learning never stops.
 
+
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
+
 
 <img align="left"  alt="scbushan05's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true" />
 
