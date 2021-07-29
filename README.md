@@ -21,7 +21,7 @@ I have been able to juggle multiple projects simultaneously while being able to 
 <br/>
 
 
-[![Linkedin follow @callicoder](https://img.shields.io/badge/-aksharbhagwandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aksharbhagwandin/)](https://www.linkedin.com/in/aksharbhagwandin/) &nbsp;
+[![Linkedin follow @aksharbhagwandin](https://img.shields.io/badge/-aksharbhagwandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aksharbhagwandin/)](https://www.linkedin.com/in/aksharbhagwandin/) &nbsp;
 <!--[![Twitter follow @akshar_io](https://img.shields.io/twitter/follow/akshar_io?style=social)](https://twitter.com/akshar_io) &nbsp; -->
 
 <!--
