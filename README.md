@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I spend most of my time building bespoke digital products.
+I spend most of my time building bespoke digital products. I am a firm believer in The Aggregation of Marginal Gains.
 
 I have been a product and interaction designer. I mainly focus on Java and JavaScript as I believe that if you know the fundamentals of a programming language it will be easy to grasp the concepts of another.
 
