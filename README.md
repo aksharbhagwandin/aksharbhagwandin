@@ -25,8 +25,6 @@ I have been able to juggle multiple projects simultaneously while being able to 
 <!--[![Twitter follow @akshar_io](https://img.shields.io/twitter/follow/akshar_io?style=social)](https://twitter.com/akshar_io) &nbsp; -->
 
 <!--
-**aksharbhagwandin/aksharbhagwandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
