@@ -16,32 +16,23 @@ Driven by making a difference in the world I am easily inspired. I always feel a
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
 
 
-## 🔧 Technologies
+## Tech And Languages
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=C70039)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=C70039)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C70039)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=C70039)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=C70039)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=C70039)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=C70039)
 
+## Stats
+<p align=center>
 
-<img align="left"  alt="Akshar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true" />
+[![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true)](https://github.com/aksharbhagwandin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbhagwandin&layout=compact)](https://github.com/aksharbhagwandin/github-readme-stats)
 
+</p>
+
 [![Linkedin follow @aksharbhagwandin](https://img.shields.io/badge/-aksharbhagwandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aksharbhagwandin/)](https://www.linkedin.com/in/aksharbhagwandin/) &nbsp;
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
