@@ -16,7 +16,7 @@ Driven by making a difference in the world I am easily inspired. I always feel a
 I have been able to juggle multiple projects simultaneously while being able to quickly learn new technologies.
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -30,10 +30,6 @@ I have been able to juggle multiple projects simultaneously while being able to 
 <img align="left"  alt="Akshar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbhagwandin&layout=compact)](https://github.com/aksharbhagwandin/github-readme-stats)
-
-
-<br/>
-
 
 [![Linkedin follow @aksharbhagwandin](https://img.shields.io/badge/-aksharbhagwandin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aksharbhagwandin/)](https://www.linkedin.com/in/aksharbhagwandin/) &nbsp;
 
