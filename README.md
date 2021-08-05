@@ -31,7 +31,7 @@ I have been able to juggle multiple projects simultaneously while being able to 
 
 [![Akshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksharbhagwandin&count_private=true&show_icons=true&hide_border=true)](https://github.com/aksharbhagwandin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbhagwandin&layout=compact)](https://github.com/aksharbhagwandin/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksharbhagwandin&layout=compact)](https://github.com/aksharbhagwandin/github-readme-stats) -->
 
 </p>
 
