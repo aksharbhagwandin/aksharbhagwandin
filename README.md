@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I spend most of my time building bespoke digital products. I am a firm believer in The Aggregation of Marginal Gains.
 
